@@ -1,0 +1,15 @@
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.deps.json
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\bin\Debug\net5.0\ref\DevFreela.Core.dll
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.runtimeconfig.json
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.runtimeconfig.dev.json
+C:\Users\junin\source\repos\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.genruntimeconfig.cache
